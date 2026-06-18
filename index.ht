@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Ottawa Bio Sci</title>
+	<style>
+		body {
+			font-family: system-ui, -apple-system, sans-serif;
+			line-height: 1.6;
+			max-width: 800px;
+			margin: 2rem auto;
+			padding: 0 1rem;
+			color: #333;
+		}
+		table {
+			width: 100%;
+			border-collapse: collapse;
+			margin: 1rem 0;
+		}
+		th, td {
+			border: 1px solid #ddd;
+			padding: 8px;
+			text-align: left;
+		}
+		th { background-color: #f5f5f5; }
+		blockquote {
+			border-left: 4px solid #ccc;
+			margin: 1rem 0;
+			padding-left: 1rem;
+			color: #666;
+		}
+		code {
+			background-color: #f4f4f4;
+			padding: 2px 4px;
+			border-radius: 3px;
+		}
+	</style>
+</head>
+<body>
+
+	<h1>Ottawa Bio Sci</h1>
+	<p>Your content goes here. You can now use standard HTML tags easily.</p>
+
+</body>
+</html>
