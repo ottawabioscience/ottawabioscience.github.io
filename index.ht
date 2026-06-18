@@ -1,46 +1,508 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8"/>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Ottawa Bio Sci</title>
-	<style>
-		body {
-			font-family: system-ui, -apple-system, sans-serif;
-			line-height: 1.6;
-			max-width: 800px;
-			margin: 2rem auto;
-			padding: 0 1rem;
-			color: #333;
-		}
-		table {
-			width: 100%;
-			border-collapse: collapse;
-			margin: 1rem 0;
-		}
-		th, td {
-			border: 1px solid #ddd;
-			padding: 8px;
-			text-align: left;
-		}
-		th { background-color: #f5f5f5; }
-		blockquote {
-			border-left: 4px solid #ccc;
-			margin: 1rem 0;
-			padding-left: 1rem;
-			color: #666;
-		}
-		code {
-			background-color: #f4f4f4;
-			padding: 2px 4px;
-			border-radius: 3px;
-		}
-	</style>
-</head>
 <body>
+    <header>
+      <div><span>🧬</span></div>
+      <h1>Ottawa Bio Sci</h1>
+    </header>
 
-	<h1>Ottawa Bio Sci</h1>
-	<p>Your content goes here. You can now use standard HTML tags easily.</p>
+    <div>
+      <p><strong>Canadian Capital's Community Biology Group</strong></p>
+      
+      <p>
+        <a href="https://specyal.com/diybio/projects.html">Projects</a> 
+        <a href="https://specyal.com/diybio/workshops.html">Workshops</a> 
+        <a href="https://specyal.com/diybio/lab.html">Lab</a> 
+        <a href="https://specyal.com/diybio/about.html">About</a> 
+        <a href="https://specyal.com/diybio/resources.html">Resources</a> 
+        <a href="https://specyal.com/diybio/contact.html">Contact</a>
+      </p>
 
+      <div>
+        <div>
+          <p><strong>Our mission is to foster a vibrant bioscience community and advance citizen science and molecular biology education.</strong></p>
+          <p><strong>We believe that combining cutting-edge molecular biology research with public education has the power to create a better world and accelerate scientific progress <br /></strong><strong><a href="https://www.sciencedirect.com/science/article/pii/S0734975002000113?via%3Dihub">Read More</a></strong></p>
+        </div>
+        <div>
+          <figure>
+            <a href="fa864519-67d2-40a4-a59c-ec4c60e5ef15.png"><img src="fa864519-67d2-40a4-a59c-ec4c60e5ef15.png" alt="GFP expressing E-coli colonies" /></a>
+            <figcaption>Actual image of 700+ colonies of GFP expressing E-coli using the robot we designed and built.</figcaption>
+          </figure>
+        </div>
+      </div>
+
+      <hr />
+
+
+
+
+
+
+
+
+<h1>News and Events</h1>
+<h1>2026</h1>
+<h2>This section does not include day-to-day activities like meets and labs. To get more detailed information please email openbioscience gmail</h2>
+
+<h1>July</h1>
+Potential <a href="https://seaphages.org">Sea phages project</a> Please take a look and see if you are interested. If so, contact us using the about page.
+<img src="https://seaphages.org/static/images/SEAPHAGES_Logo.png" alt="DIY Biology Summit Banner" />
+<br />
+
+<h1>June</h1>
+<a href="https://htgaa.org">Discuss and start HTG Summer research activities and maybe a short HTG bioproduction course that is under discussion</a>
+<a href="https://htgaa.org/#nodes">HTGAA course finalized for all students</a> We'll post here graduation ceremony pictures and link to node alumni certificates.
+<br />
+Started work on a new project called Golden Gate Open Education Kit with initial participation from from Reclone.org and HTG. Some good progress so far. if you are interested contact us using the about page.
+<br />
+Started work on an Open Source electroporator after unsuccessful testing of several OpenSource electroporators. We'll create a GitHub project under <a href="https://github.com/AdrianMolecule">AdrianMolecule GitHub</a> account for the project.
+<img src="https://training-formation.phac-aspc.gc.ca/pluginfile.php/1/local_pages/pagecontent/DIY-Biology-Summit-Banner-EN-2026-04-09.png" alt="DIY Biology Summit Banner" />
+<br />
+<a href="https://phac-aspc.gc.ca">We participated with a 15 min presentation in the biosafety and biosecurity section. As a reminder, here's the link to</a>
+<a href="https://www.canada.ca/en/public-health/services/canadian-biosafety-standards-guidelines/second-edition.html">Relevant Canadian regulation</a> that you need to read before taking part in significant experiments.
+<br />
+Keep in mind that the regulation is amended from time to time and it was amended this spring. Most of the amendments applied to higher risk groups we are not using.
+<br />
+
+<h1>April</h1>
+<img src="https://training-formation.phac-aspc.gc.ca/pluginfile.php/1/local_pages/pagecontent/DIY-Biology-Summit-Banner-EN-2026-04-09.png" alt="DIY Biology Summit Banner" />
+<br />
+<a href="https://phac-aspc.gc.ca">Registration opened for people interested in attending the Public Health Agency of Canada Biosummit (PHAC)</a>
+<br />
+PHAC is the Canadian agency that among other important responsibilities regulates and enforces Biosafety and Biosecurity in Canada. That includes research activities including activities in the community biology sphere. We will present during the Biosafety and Biosecurity session.
+<br />
+<a href="https://htgaa.org">HTGAA course final presentations and preparation for summer research activities</a>
+<a href="https://htgaa.org/#nodes">Node link on HTGAA course page</a>
+
+<h1>February - March</h1>
+Intense educational activity as a node for HTGAA MIT course. That includes Office Hours, Homework reviews, auditing new lectures and node labs.
+<a href="https://htgaa.org">HTGAA course page</a>
+<a href="https://htgaa.org/#nodes">Node link on HTGAA course page</a>
+Full Calendar of activities is available here
+<a href="https://google.com">Calendar</a>
+
+
+
+<h1>2025</h1>
+<h1>January</h1>
+<h3>How To Grow Almost Anything MIT course starts. Our group is a 'node' for the course, it's one of the 2 nodes in Canada and one of the first 8 nodes in the world.</h3>
+At this point the registrations are opened. The registration is done directly with MIT and the accepted students will have to choose a home node where homework reviews, labs and final project is performed.77
+<a href="https://forms.gle/7mggSJDAQbvEcG5o8">Register here, Current deadline Feb 2.</a>
+During Bootcamp Jan 19-23, our node will present three topics: Online databases, Cell culture and Accessible protocols. First lecture is Feb 3 and since the bootcamp is optional it's considered the start of the course.
+
+<h1>December</h1>
+<h3>Preparation underway for the How To Grow Almost Anything MIT course start. Our group is a 'node' for the course, it's one of the 2 nodes in Canada and one of the first 8 nodes in the world.</h3>
+The registration is done directly with MIT and the accepted students will have to choose a home node where homework reviews, labs and final project is performed.
+<a href="https://ottawa-htgaa.notion.site/Ottawa-HTGAA-Node-Home-18cabed9fa118029bc2af06f5c2136bb">Previous year Ottawa node site</a>
+<a href="https://howtogrowalmostanything.notion.site/htgaa25">Previous year MIT site.</a>
+<a href="https://notion.so">Ottawa Node for HTGAA Web Site.</a>
+
+<h3>In discussion with the Museum of Science and Technology for an early series of Spring workshops following the Fall workshops success.</h3>
+<h3>Contacted by PHAC-Public Health Agency of Canada to participate in a new edition of the Canadian Biosummit. This is an exciting development for the community bio space in Canada. Details are being worked out.</h3>
+<a href="https://whitefeatherhunter.net/wp-content/uploads/2016/03/proceedings-canadian-diy-bio-summit-ottawa-march-16-2016.pdf">We participated in the Previous Biosummit Event Program.</a>
+
+<h3>Continue to develop and enhance the Node Labs for the 2025 HTGAA MIT Course</h3>
+<h3>Enhanced the code for the Orbital shaker and Tube rotator to control and monitor temperature and rotation speed online via Wi-Fi.</h3>
+<a href="https://github.com/AdrianMolecule/RotationalIncubatedDevice">GitHub code</a>
+SOMETHING GOES HERE XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<h1>November</h1>
+<h3>Public Bacterial Culture Workshop At CP Library - November 15 at 1 PM</h3>
+<h3>Continue the summer research activity</h3>
+<h3>Public workshop At RRCRC</h3>
+<a href="https://www.eventbrite.ca/e/the-secret-of-life-the-cell-workshops-tickets-1670735878989?aff=oddtdtcreator">Registration - optional</a>
+<img src="https://google.com" alt="Workshop banner" />
+
+<h1>October</h1>
+<h3>Continue the summer research activity</h3>
+<h3>Phage therapy.</h3>
+<a href="https://idgph.ucsd.edu/research/center-innovative-phage-applications-and-therapeutics/clinical-trial/testimonials.html">Check out the story!</a>
+<h3>Ginko Automation. We'll learn how to use the Ginko automation robots. The goal is to create and test 20 + automation protocols</h3>
+<figure>
+  <a href="https://ginkgo.bio/">
+    <img src="https://gstatic.com" alt="Ginkgo Logo" />
+  </a>
+</figure>
+<h3>Process Twist constructs</h3>
+<h3>Public workshop on October 11th at the Canada Science and Technology Museum</h3>
+<a href="https://events.com/r/en_US/registration/secret-life-of-dna--la-vie-secrete-de-ladn-ottawa-october-1003185/purchase">Registration</a>
+<img src="https://drive.google.com/thumbnail?id=1UiPjJqR_Vm_g7oCLrcWOLNpDssIPGoV-sz=w500-h700" alt="Event visual 1" />
+<img src="https://google.com" alt="Event visual 2" />
+<h3>Established partnership with Canadian Innovation Space</h3>
+<a href="https://canadianinnovationspace.ca">Canadian Innovation Space</a>
+<a href="https://canadianinnovationspace.ca/partners/ottawa-bio-science/">Our page at Canadian Innovation Space</a>
+
+<h1>September</h1>
+<h3>Continue the summer research activity</h3>
+<h3>Phage therapy.</h3>
+<a href="https://idgph.ucsd.edu/research/center-innovative-phage-applications-and-therapeutics/clinical-trial/testimonials.html">Check out the story!</a>
+<h3>Generating chromatophores.</h3>
+<img src="https://octonation.com/wp-content/uploads/2022/03/Upclose-Chromatophores.jpeg" alt="Chromatophores closeup" />
+<h3>Ginko Automation. We'll learn how to use the Ginko automation robots and the goal is to create and test 20 + automation protocols</h3>
+<figure>
+  <a href="https://ginkgo.bio/">
+    <img src="https://gstatic.com" alt="Ginkgo Logo" />
+  </a>
+</figure>
+<h3>Applied for the Spencer Foundation Vision Grant as a MIT MediaLab node</h3>
+<h3>
+  <a href="https://google.com">Spencer Foundation</a>
+</h3>
+<h3>Workshop - Public DNA extraction using accessible and industrial protocol workshop. Image taken Sept 5th</h3>
+<img src="https://google.com" alt="DNA extraction workshop visual" />
+
+<h1>August</h1>
+<h3>Continue the summer research activity</h3>
+<h3>Public workshop for Sept 5th at RRCRC</h3>
+<img src="https://google.com" alt="Workshop visual" />
+<a href="https://eventbrite.ca">Registration - optional</a>
+
+<h1>July</h1>
+<h3>Start summer research activity with HTG. That includes:</h3>
+<h3>Phage therapy.</h3>
+<a href="https://idgph.ucsd.edu/research/center-innovative-phage-applications-and-therapeutics/clinical-trial/testimonials.html">Check out the story!</a>
+<h3>Generating chromatophores.</h3>
+<img src="https://octonation.com/wp-content/uploads/2022/03/Upclose-Chromatophores.jpeg" alt="Chromatophores closeup" />
+<h3>Ginko Automation. We'll learn how to use the Ginko automation robots and the goal is to create and test 20 + automation protocols</h3>
+<figure>
+  <a href="https://ginkgo.bio/">
+    <img src="https://gstatic.com" alt="Ginkgo Logo" />
+  </a>
+</figure>
+
+<h1>June</h1>
+<h3>Thank you TWIST BIOSCIENCE for your Generous Sponsorship!! We received the expression vectors you created for us.</h3>
+<figure>
+  <a href="https://www.twistbioscience.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Twist_Bioscience_Official_Logo.png/250px-Twist_Bioscience_Official_Logo.png" alt="Twist Bioscience Official Logo" />
+  </a>
+</figure>
+<h3>Friday June 13 and 14 Ottawa Bio Science Open house.</h3>
+<figure>
+  <a href="/images/rrcrcposter2025.png">
+    <img src="/images/rrcrcposter2025.png" alt="Open house poster" />
+  </a>
+</figure>
+<h3>Finally, after some efforts we received four of the the Open Genes plates from Cambridge Uni <a href="https://openbioeconomy.org/">https://openbioeconomy.org/</a>. Thank you Yan Kay, Jenny Molloy, Jean and all the people that made this possible. <a href="https://github.com/Reclone-org/Open-DNA-Collections">https://github.com/Reclone-org/Open-DNA-Collections</a></h3>
+<h3>Last leg of the MIT HTGAA course with all the student final projects presented. The final project completion will continue throughout the summer.</h3>
+<h3>Still waiting for Twist orders delivery. Apparently the other labs experienced delays due to customs. There is a potential of putting a second Twist order during the second week of June.</h3>
+<h3>Our node with links to all the final student projects:<br /><br /><a href="https://www.notion.so/Ottawa-HTGAA-Node-Home-18cabed9fa118029bc2af06f5c2136bb?pvs=21">https://ottawa-htgaa.notion.site/Ottawa-HTGAA-Node-Home-18cabed9fa118029bc2af06f5c2136bb</a></h3>
+
+<h1>May</h1>
+<h3>Almost last leg of the MIT HTGAA course with all the student final projects presented.</h3>
+<h3>Twist orders are in production. This is a first batch of 5 new genes.<br /><br />Thank you Prof Dr. <br /><strong>Andreas Möglich</strong> for the generous gift of optogenetics constructs. They will be put to good use.</h3>
+
+<h1>April</h1>
+<h3>We partnered and became a voting member of the <strong><a href="https://www.synbiocanada.org/">SynBio Canada</a></strong></h3>
+<h3><strong>Presented a public workshop in DNA extraction at the Library.</strong></h3>
+<p><strong>We got a lot of great feedback. Pictures pending.</strong></p>
+<h3>HTGAA course is reaching final projects stage and a large number of final projects are underway. Here are some of them:</h3>
+<figure>
+  <a href="image%201.png">
+    <img src="image%201.png" alt="Course projects block diagram" />
+  </a>
+</figure>
+<ul>
+  <li>Design a T4Ligase expressing system</li>
+</ul>
+
+<h3>HTGAA course is reaching final projects stage and a large number of final projects are underway. Here are some of them:</h3>
+<figure>
+  <a href="image%201.png"><img src="image%201.png" alt="Course projects block diagram" /></a>
+</figure>
+
+<ul>
+  <li>Design a T4Ligase expressing system so we can produce the protein for restriction cloning<br />Restriction cloning Synthesis of Biodegradable antimicrobial bioplastics in Photosynthetic micro algae</li>
+  <li>Design and express an Operon for degrading specific plastic. phaABC Operon_D</li>
+  <li>Design transform express CCar9_B for production of DNA, RNAi using microfluidics or robotics.</li>
+  <li>Start the process of designing a BsaI production to be used for MoClo for FreeGenes
+    <figure>
+      <a href="image.png"><img src="image.png" alt="MoClo design snapshot" /></a>
+    </figure>
+  </li>
+  <li>Design another plasmid for transforming plastic: NcoI_XhoI_no_HIS_no_thrombin, Demetra_T</li>
+</ul>
+
+<h3>Met with Yann De Kermadec, <strong><a href="http://www.enzymethic.fr/">Enzymethic</a></strong> and discussed partnership and collaboration for biological products</h3>
+<p>Yann was very interested in using some of our products and participate in joint projects.</p>
+
+<h3>Ottawa Bio Science will have a booth at the Open Doors event at Rideau RockliffeCC<br /><br />Contacted the organizers and started preparation for a potential participation during <br /><a href="https://canadianinnovationspace.ca/events/">Canadian Innovation Week</a> hosted by the <a href="https://rhf-frh.ca/">Rideau Hall Foundation</a></h3>
+<figure>
+  <a href="image%203.png"><img src="image%203.png" alt="Innovation Week logo" /></a>
+</figure>
+
+<h1>March</h1>
+<h3><strong>March Break bio for the public- Free Public Workshop scheduled for March 15 at the lab.</strong><br /><br /><strong>Designed, and built a new affordable cell lysis device.</strong></h3>
+<figure>
+  <a href="image%202.png"><img src="image%202.png" alt="Cell lysis device prototype" /></a>
+</figure>
+<figure>
+  <a href="https://github.com/AdrianMolecule/glassLysis">
+    <div>
+      <div>
+        <div>GitHub - AdrianMolecule/glassLysis</div>
+        <div>Contribute to AdrianMolecule/glassLysis development by creating an account on GitHub.</div>
+      </div>
+      <div>
+        <img src="https://github.com/fluidicon.png" alt="GitHub icon" />https://github.com/AdrianMolecule/glassLysis
+      </div>
+    </div>
+    <img src="https://opengraph.githubassets.com/6029c2c100012f220d1d3824a038114c3c65d68fa1c61963a50d01a53e06952b/AdrianMolecule/glassLysis" alt="OpenGraph preview code block" />
+  </a>
+</figure>
+
+<h1>February</h1>
+<h3><strong>Valentines ideas for a pipette holder.</strong></h3>
+<p><strong>Quick Setup Guide:</strong><br />Take a Chocolate Box (i.e. Ferrero Rocher); Eat all the chocolates; 3D Print the Pipette Hooks; Prepare an Elastic Loop; Add Foam to cushion and secure the pipettes; Place your pipettes into the hooks and check the fit and stability; Repeat ... Take a Chocolate Box… </p>
+
+<div>
+  <div>
+    <figure>
+      <a href="3c65f933-79c6-4e0c-a805-831e685c6f9c.png"><img src="3c65f933-79c6-4e0c-a805-831e685c6f9c.png" alt="3D printed holder preview" /></a>
+    </figure>
+  </div>
+</div>
+
+<figure>
+  <a href="https://github.com/AdrianMolecule/pipetteholder">
+    <div>
+      <div>
+        <div>GitHub - AdrianMolecule/pipetteholder: A portable low cost pipette holder</div>
+        <div>A portable low cost pipette holder. Contribute to AdrianMolecule/pipetteholder development by creating an account on GitHub.</div>
+      </div>
+      <div>
+        <img src="https://github.com/fluidicon.png" alt="GitHub icon" />https://github.com/AdrianMolecule/pipetteholder
+      </div>
+    </div>
+    <img src="https://opengraph.githubassets.com/da2a5ed521810d1a79bc154f4df1f721b4d8ac4de7ff973e24a7e9d8d8758a8c/AdrianMolecule/pipetteholder" alt="OpenGraph preview asset layout" />
+  </a>
+</figure>
+
+<h3><strong>Reclone presentation</strong><br />Adrian presented the new <br /><a href="https://github.com/AdrianMolecule/OpenBio">https://github.com/AdrianMolecule/OpenBio</a> software to the <a href="https://reclone.org/">Reclone community</a></h3>
+
+<h3>Students for the MIT-HTGAA Ottawa Node please go to <a href="https://www.notion.so/Ottawa-HTGAA-Node-Home-18cabed9fa118029bc2af06f5c2136bb?pvs=21">Ottawa Node for HTGAA Web Site</a> for homework reviews.</h3>
+
+<div>
+  <div>
+    <h3><a href="https://howtogrowalmostanything.notion.site/htgaa25">MIT-HTGAA</a> Course starts <br />Ottawa Bio Sci will be an official HTGAA node for the 2025 edition of MIT Media Lab of "How to Grow Almost Anything"</h3>
+  </div>
+  <div>
+    <figure>
+      <a href="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_fileshtgaa2025.png"><img src="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_fileshtgaa2025.png" alt="HTGAA 2025 flyer layout" /></a>
+    </figure>
+  </div>
+</div>
+<p>This is an amazing course that introduces everybody to the inner mechanisms of life.</p>
+<p>And it's totally free!!</p>
+
+
+
+
+
+<h1>2024</h1>
+<h1>January</h1>
+<h3>Fluorescent Cells: A Petri Dish Adventure Workshop at the library</h3>
+<figure>
+  <a href="6da00b81-2c3a-46f2-93a4-c7648b2f8db8.png"><img src="6da00b81-2c3a-46f2-93a4-c7648b2f8db8.png" alt="Petri dish visual asset" /></a>
+</figure>
+<h3>Molecular Bio Open Source Software App</h3>
+<div>
+  <div>
+    <p>Incredibly, while Benchling and SnapGene and Geneious are used by everybody there is no OpenSource equivalent. Several of our members decided to develop an open source software called Open Bio. The first use case focuses on visualizing and checking primers for PCR and LAMP reactions. <br />Our current working version can load and display sequences and simulate bio operations like annealing and elongation and simple hairpins. Source code at GitHub below.<br /></p>
+  </div>
+  <div>
+    <figure>
+      <a href="image%205.png"><img src="image%205.png" alt="Open Bio sequence preview layout" /></a>
+    </figure>
+  </div>
+</div>
+
+<figure>
+  <a href="https://github.com/AdrianMolecule/OpenBio">
+    <div>
+      <div>
+        <div>GitHub - AdrianMolecule/OpenBio: A UI app form manipulating DNA and AA sequences</div>
+        <div>A UI app form manipulating DNA and AA sequences. Contribute to AdrianMolecule/OpenBio development by creating an account on GitHub.</div>
+      </div>
+      <div>
+        <img src="https://github.com/fluidicon.png" alt="GitHub logo asset" />https://github.com/AdrianMolecule/OpenBio
+      </div>
+    </div>
+    <img src="https://opengraph.githubassets.com/d41f5dbb7090f70c8dafcb80bc8f00b41dd3cfa9d7e41f83f505f4214a194f09/AdrianMolecule/OpenBio" alt="OpenBio interface display" />
+  </a>
+</figure>
+
+<h2>Rideau-Rockcliffe Community Resource and incubator13.ca partnership</h2>
+
+<h2>2024</h2>
+<h2>December</h2>
+<div>
+  <div>
+    <h3>Finalized testing of the accessible protocol using Agar-Agar and bouillon.</h3>
+    <p>Here is the resulted culture under low UV showing super-folded GFP is expressed.</p>
+  </div>
+  <div>
+    <figure>
+      <a href="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_filesfuGFPusingBovrilAndLowUVLight.jpg"><img src="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_filesfuGFPusingBovrilAndLowUVLight.jpg" alt="GFP under low UV light" /></a>
+    </figure>
+  </div>
+</div>
+
+<div>
+  <div>
+    <h3>Designed and built a water bath</h3>
+    <p>Tested the newly designed and built water bath. Successful in keeping a 45 Celsius constant temperature for 2 continuous days.</p>
+    <p>
+      <a href="https://github.com/AdrianMolecule/waterbath">OS waterbath github</a><br />Created video <br />
+      <a href="https://drive.google.com/file/d/12hKW8yLj2Et0Sq0X7TcUQGQmB6zqW9n0/view?usp=drive_link">draft waterbath build video</a>
+    </p>
+  </div>
+  <div></div>
+</div>
+
+<figure>
+  <a href="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_fileswaterbath.png"><img src="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_fileswaterbath.png" alt="Waterbath hardware prototype build" /></a>
+</figure>
+
+<h3>Discussed with Rideau-Rockcliffe Community Resource and incubator13.ca partnership</h3>
+<h3>Created several raw videos for HTGAA external community</h3>
+<h3>Pork identification protocols</h3>
+<p><strong>Start Testing HTGAA Accessible protocols</strong></p>
+
+<h2>November</h2>
+<h3>Ottawa Bio Science meet at University of Ottawa STEM center</h3>
+<figure>
+  <a href="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_files2018-09-20.jpg"><img src="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_files2018-09-20.jpg" alt="STEM center meet group visual" /></a>
+</figure>
+<h3>Published final three pork identification protocols on protocols.io.</h3>
+<h3>Solicited and received feedback from other DIY groups - Rachel Aronoff from <a href="https://www.hackteria.org/">Hackteria</a>, Scott Pownall from Open Science Network Society.</h3>
+<h3><strong>Started videotape first raw cuts of HTGAA Accessible protocols</strong></h3>
+
+<h2>October</h2>
+<h3>For LAMP assay prepare and publish the detailed protocol for pork identification protocol on protocols.io</h3>
+<h3>Performed the meat prep protocol. No results.</h3>
+<p>Rick took pictures and will create a video</p>
+<h3>Reclone meeting and collaboration discussions with other labs</h3>
+<h3>Continue to do course preparation and node handbook with HTGAA for 2025</h3>
+<h3>Plan and test the next public workshop on DNA electrophoresis</h3>
+
+<h2>September</h2>
+<p>DNA extraction workshop</p>
+<div>
+  <div>
+    <figure>
+      <a href="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_filesdnaFromStrawberry1.jpg"><img src="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_filesdnaFromStrawberry1.jpg" alt="Strawberry DNA extract sample" /></a>
+    </figure>
+  </div>
+  <div>
+    <figure>
+      <a href="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_filesdnaextractworkshop1.jpg"><img src="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_filesdnaextractworkshop1.jpg" alt="DNA extraction setup at workshop" /></a>
+    </figure>
+  </div>
+</div>
+<p><a href="https://specyal.com/diybio/protocols/dnaextractionprotocol.txt">Protocol</a>, Included origami DNA</p>
+<p><a href="https://specyal.com/diybio/protocols/dnaextractionprotocol.txt">Protocol</a>, Included origami DNA at mrpauller dot weebly dot com/blog/origami-dna</p>
+<h3>For LAMP assay prepare and publish the meat preparation protocol at protocols.io</h3>
+
+<div>
+  <div>
+    <h3>Fab Lab Festival participation. Our booth was very busy and successful. We were filmed and interviewed. We will update the links once we obtain the material. <a href="https://www.facebook.com/photo?fbid=1043502351112280&amp;set=pcb.1043502394445609">Fab Fest</a></h3>
+  </div>
+  <div>
+    <figure>
+      <a href="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_filesfabfest.jpg"><img src="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_filesfabfest.jpg" alt="Fab Lab Festival group visual" /></a>
+    </figure>
+  </div>
+</div>
+
+<h3>Reclone meeting</h3>
+<h3>Hack613 meeting</h3>
+<h3>Discuss a secondary lab location with <a href="https://canadianinnovationspace.ca/partners/incubator13-at-the-rideau-rockcliffe-community-resource-center/">Canadian innovation space and incubator13</a></h3>
+<h3>Build a Cell seminars</h3>
+<h3>Continue to do course preparation and node handbook with HTGAA for 2025</h3>
+<p>Includes create handbook for the nodes. Comment on the existing documents and participate in the many meetings</p>
+<h3>Test the tube rotator and iterate the design. All finished and working.</h3>
+
+<div>
+  <div>
+    <p>Document GitHub project and document some basic bacterial growth. Endurance test for 3 weeks passed.</p>
+    <p>Full documentation at <a href="https://github.com/AdrianMolecule/TubeRotator">TubeRotator</a></p>
+  </div>
+  <div>
+    <figure>
+      <a href="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_filesrotator.jpg"><img src="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_filesrotator.jpg" alt="Tube rotator mechanical hardware prototype" /></a>
+    </figure>
+  </div>
+</div>
+
+<h2>August</h2>
+<h3>Prepare and acquire regents for the LAMPY assay</h3>
+<h3><strong>Continue detailed work for creating a secondary more accessible lab.</strong></h3>
+<h3>Reclone meeting and participation</h3>
+<h3>Design and build a tube rotator</h3>
+<p>Create GitHub project and start documenting.</p>
+
+<h2>June</h2>
+<h3>Dry freezing in June</h3>
+<p>Discuss/assess simple dry freezing technique as per Jennifer's paper. Shall we attempt it? It requires a long list of reagents a fast freezing device and a strong vacuum pump to attempt sublimation.</p>
+<p>Reclone meeting and participation</p>
+<h3><strong>Advanced discussions with other organization about partnering. Start detailed work for creating a more accessible secondary lab.</strong></h3>
+
+<h2>May</h2>
+<h3>Document the inoculating Robot</h3>
+<div>
+  <div>
+    <p>We need to meet and document the robot as the details are still fresh.</p>
+    <p>Here is the full current documentation:<br /><br /><a href="https://github.com/AdrianMolecule/inoculatingRobot">https://github.com/AdrianMolecule/inoculatingRobot</a></p>
+  </div>
+  <div>
+    <figure>
+      <a href="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_fileshiResLeafAfterIncubation.jpg"><img src="Ottawa_Bio_Sci._-_Ottawas_Community_Biology_Group_fileshiResLeafAfterIncubation.jpg" alt="Inoculated petri dish incubation results" /></a>
+    </figure>
+  </div>
+</div>
+<p><strong>Petri dish inoculated with GFP using the Inoculating Robot. Picture taken after incubation under UV light.</strong></p>
+<p>We will use the lessons and elements from the openFlexure project adapted to our project. It could be used for reading plaque for the HTGAA collab project.</p>
+<h3>Start literature research and design of continuous directed evolution system to implement</h3>
+<p>One of our long term intentions could become possible due to robotics. Try to identify a system that can be implemented using our implementation of pyLabRobot server.</p>
+<h3>Collab on HTGAA collab group project</h3>
+<p>Planning and start design of experiments</p>
+<h3>Design GA primers session</h3>
+<p>GA is maybe the most useful tool in engineering today so understanding it is a great skill. Bring scissors to cut DNA. Seriously...</p>
+
+<h2>April</h2>
+<h3>Initial test the Inoculating robot</h3>
+<p>We will design several patterns.</p>
+<h3>Reclone grant proposal meeting</h3>
+<p>Discuss the potential involvement</p>
+<h3>Design the primers for plant virus LAMP kit session</h3>
+<h3>Reclone presentation. From Kits to DIY</h3>
+
+<h2>March</h2>
+<h3>Presentation and discuss HTGAA collab group project</h3>
+<p>We will participate in a phage therapy research project. While the general goal is stated we need to distill that in concrete details. Major risk is availability and affordability of reagents.</p>
+<p><strong>Continue discussions for partnering and creating a secondary lab more accessible.</strong></p>
+<h3>Prepare testing for inoculating robot</h3>
+<p>Select and culture the dishes and liquid culture for testing the Inoculating Robot</p>
+<h3>Work on the design of kit for LAMP</h3>
+<p>Decide on the plasmid and order</p>
+<h3>Cell Free Lab</h3>
+<p>Test the cell free from <strong>Kate Atamala/ U of Minesotta</strong>. The dry ice was gone by the time we got the packet. Testing result was not conclusive.</p>
+
+<h3>Reclone meeting</h3>
+
+<h2>February</h2>
+<h3><strong>Approach several organization for partnering and create a secondary lab more accessible.</strong></h3>
+
+<h3>Discuss new presentation for the next Reclone meeting</h3>
+
+<h3>Cell-Free Protocol<br />Meet to design a cell-free Python protocol for Opentrons and Opentrons tube racks.</h3>
+
+<h3>Here are the images and files: <a href="https://specyal.com/diybio/resources/cellfree.py">/diybio/resources/cellfree.py</a>:</h3>
+
+
+<h1>Older news are archived for brevity</h1>
+
+</div>
 </body>
 </html>
+
+    
