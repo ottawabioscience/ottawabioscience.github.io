@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Ottawa Bio Science - Contact Us</title>
+    <meta name="description" content="Ottawa DIYBio">
+    <meta name="keywords" content="DIY, Ottawa, Bio, bioengineering, biohacking, canada, molecular biology">
+</head>
+<body>
+
+<section id="mainRight">
+    <header>
+        <h1><span>DIY with a goal !</span></h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="workshops.html">Workshops</a></li>
+            <li><a href="lab.html">Lab</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="resources.html">Resources</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <div>Please use the form below to contact us for project proposals, membership requests, general questions and comments.</div>
+
+    <div>
+        <form action="https://www.SnapHost.com/captcha/send.aspx" id="ContactUsCaptchaWebForm" method="post" onsubmit="return ValidateForm(this);" target="_top">
+            <input name="skip_WhereToSend" type="hidden" value="tada@specyal.com" /> 
+            <input name="skip_SnapHostID" type="hidden" value="FGBTEP5TML3G" /> 
+            <input name="skip_WhereToReturn" type="hidden" value="http://www.specyal.com/diybio/thankyou.html" /> 
+            <input name="skip_Subject" type="hidden" value="Contact Us Form" /> 
+            <input name="skip_ShowUsersIp" type="hidden" value="1" /> 
+            <input name="skip_SendCopyToUser" type="hidden" value="1" /> 
+            
+            <script type="text/javascript">
+            function ValidateForm(frm) {
+                if (frm.Name.value == "") {alert('Name is required.');frm.Name.focus();return false;}
+                if (frm.FromEmailAddress.value == "") {alert('Email address is required.');frm.FromEmailAddress.focus();return false;}
+                if (frm.FromEmailAddress.value.indexOf("@") < 1 || frm.FromEmailAddress.value.indexOf(".") < 1) {alert('Please enter a valid email address.');frm.FromEmailAddress.focus();return false;}
+                if (frm.Comments.value == "") {alert('Please enter comments or questions.');frm.Comments.focus();return false;}
+                if (frm.skip_CaptchaCode.value == "") {alert('Enter web form code.');frm.skip_CaptchaCode.focus();return false;}
+                return true; 
+            }
+            function ReloadCaptchaImage(captchaImageId) {
+                var obj = document.getElementById(captchaImageId);
+                var src = '' + obj.src;
+                obj.src = '';
+                var date = new Date();
+                var pos = src.indexOf('&rad=');
+                if (pos >= 0) { src = src.substr(0, pos); }
+                obj.src = src + '&rad=' + date.getTime();
+                return false; 
+            }
+            </script>
+
+            <table>
+                <tbody>
+                    <tr>
+                        <td><b>Name*:</b></td>
+                        <td><input maxlength="60" name="Name" type="text" /></td>
+                    </tr>
+                    <tr>
+                        <td><b>Phone number:</b></td>
+                        <td><input maxlength="43" name="PhoneNumber" type="text" /></td>
+                    </tr>
+                    <tr>
+                        <td><b>Email address*:</b></td>
+                        <td><input maxlength="60" name="FromEmailAddress" type="text" /></td>
+                    </tr>
+                    <tr>
+                        <td><b>Message*:</b></td>
+                        <td><textarea cols="40" name="Comments" rows="7"></textarea></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <td><i>Enter web form code*:</i> <input maxlength="6" name="skip_CaptchaCode" type="text" /></td>
+                                        <td>
+                                            <a href="https://www.snaphost.com/captcha/ReadyForms/ContactUsForm.aspx">
+                                                <img alt="Contact Us form" id="CaptchaImage" src="https://www.SnapHost.com/captcha/CaptchaImage.aspx?id=FGBTEP5TML3G&amp;ImgType=2" title="HTML code for Contact Us form" />
+                                            </a>
+                                            <br />
+                                            <a href="#" onclick="return ReloadCaptchaImage('CaptchaImage');"><span>reload image</span></a>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <br />
+                            * - required fields. <input name="skip_Submit" type="submit" value="Submit" />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </form>
+    </div>
+</section>
+
+</body>
+</html>
